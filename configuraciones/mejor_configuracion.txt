@@ -1,0 +1,2 @@
+Estos fueron los mejores ajustes para el modelo:
+{'num_beams': 8, 'length_penalty': 1.4}

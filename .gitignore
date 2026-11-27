@@ -1,0 +1,10 @@
+.venv
+.gradio
+corpus
+datos_evaluacion
+graficas
+registros
+tablas
+
+de_google.txt
+para_google.txt
